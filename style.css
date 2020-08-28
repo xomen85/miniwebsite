@@ -1,0 +1,124 @@
+body{
+  background-color: #eaecee;
+
+}
+.link-title{
+  font-size: 24px;
+  text-decoration:none;
+  color: #154360;
+}
+.container {
+width:780px;
+background: #e5e8e8;
+box-shadow:0px 2px 4px 0px;
+margin: 0 auto;
+}
+.header {
+padding: 40px 0px 20px 38px;
+font-size:24px;
+}
+h1{
+  margin: 10px;
+  color:#1b4f72;
+  font-size: 28px;
+  font-family: "Arial Narrow", "Myriad Pro";
+  font-weight:normal;
+}
+h2{
+  margin:10px;
+  color: #229954;
+}
+.menu {
+background: #17202a;
+padding: 6px 2px 4px 0px;
+}
+.menu a{
+display: inline-block;
+text-decoration: none;
+font-size: 18px;
+color: #e5e8e8;
+padding: 0px 4px 4px 0;
+margin: 0px 30px 4px 4px;
+}
+.menu a:hover{
+  color:#7dcea0;
+}
+#contact #form input{
+  width: 90%;
+  border-radius: 5px;
+  height: 20px;
+  background:#ebf5fb;
+}
+#contact .page-heading{
+  text-align:center;
+  margin:10px;
+}
+#contact #form #message{
+  width: 90%;
+  border-radius: 5px;
+  background:#ebf5fb;
+}
+.aside {
+float:left;
+width:200px:
+padding:30px 0 0 40px;
+}
+/*********about us*****/
+.main {
+margin:0 0 0 180px;
+padding:35px 40px 30px 0;
+font-family: "Georgia";
+font-size: 16px;
+line-height:19px;
+text-align: justify;
+}
+.main a:hover{
+  color: #c0392b;}/* for links in main */
+.main img{
+  width:100%;
+}
+/*********contact page****/
+#contact #form{
+width: 500px;
+padding: 10px 10px 10px 10px;
+margin: 0 auto;
+box-shadow:0px 2px 4px 0px;
+border-radius: 5px;
+}
+
+footer{
+    padding:8px 40px 8px 40px;
+    background: #6d6d6d;
+    color:#f7f9f9;
+    font-family: "Lucida Sans Unicode";
+    font-size: 12px;
+    text-align:left;
+}
+footer a {
+  color:#85c1e9;
+  text-decoration:none;
+  margin: 0 6px 0 6px;
+  font-size: 12px;
+}
+/*******************About page styles ***/
+#about-page #home-image img{
+  float:left;
+  width:70%;
+  margin-bottom: 20px;
+}
+#about-page #profile-info{
+float: right;
+width:20%;
+margin:
+}
+#about-page .description{
+  clear: both;
+}
+#contact #form #submit{
+height: 30px;
+background:#1e8449;
+border-radius: 5px;
+width: 30%;
+align-content: center;
+color:white;
+}
